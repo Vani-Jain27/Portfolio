@@ -20,22 +20,22 @@ I specialize in Canva-based design, AI-assisted creativity, and social media con
 ---
 
 ### ☀️ Travel Sale Campaign
-![Travel Sale](Travel Sale.png)
+![Travel Sale](Travelsale.png)
 
 ---
 
 ### 📱 Content Carousel
-![Carousel](Content ideas carousal.pdf)
+![Carousel](Carousel.pdf)
 
 ---
 
 ### 🎬 Reel Concept
-![Reel Idea](Instagram Reel.png)
+![Reel Idea](InstagramReel.png)
 
 ---
 
 ### 💍 Wedding & Invite Designs 
-![Reel Idea](Instagram Reel.png)
+![Wedding itinerary](Instagram Reel.png)
 
 ---
 

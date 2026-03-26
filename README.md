@@ -20,7 +20,7 @@ I specialize in Canva-based design, AI-assisted creativity, and social media con
 ---
 
 ### ☀️ Travel Sale Campaign
-![Travel Sale](Travelsale.png)
+![Travel Sale](TravelSale.png)
 
 ---
 
@@ -30,14 +30,17 @@ I specialize in Canva-based design, AI-assisted creativity, and social media con
 ---
 
 ### 🎬 Reel Concept
-![Reel Idea](InstagramReel.png)
+![Reel Idea](Instagramreel.mp4)
 
 ---
 
 ### 💍 Wedding & Invite Designs 
-![Wedding itinerary](Instagram Reel.png)
+![Wedding itinerary](WeddingItinerary.pdf)
 
 ---
+
+![Wardrobe Planner](Wardrobeplanner.pdf)
+
 
 ## 🛠️ Skills
 
@@ -53,3 +56,5 @@ I specialize in Canva-based design, AI-assisted creativity, and social media con
 ## 📩 Contact
  
 - Email: vanijain627@gmail.com
+- Phone: +91 8126043286
+- Instagram: invite.and_delight
